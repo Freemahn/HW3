@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="LIBS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../LIBS/ImplementorTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../LIBS/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../LIBS/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../LIBS/quickcheck-0.6.jar!/" />
+      <root url="file://$PROJECT_DIR$/../LIBS" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../LIBS/quickcheck-0.6.jar!/" />
+      <root url="file://$PROJECT_DIR$/../LIBS" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../LIBS" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../LIBS" recursive="false" type="SOURCES" />
+  </library>
+</component>
